@@ -1,2 +1,2 @@
-# SQL-Practice
-SQL practice
+# OOPs-Practice
+Object Oriented Programming in java
